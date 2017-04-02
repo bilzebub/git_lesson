@@ -1,5 +1,7 @@
 def my_square(x):
-    """ teakes a value and returns squared value."""
+    """ takes a value and returns the squared value.
+    uses ** operator
+    """
     return x **2
 
 print(my_square(3))
